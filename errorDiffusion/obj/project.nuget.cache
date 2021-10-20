@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/WJ/Fp+qgNNlFduVSjy+naFxHCgBQpy4ZmwHz2nIk/JXD17A6uSIUPiTDzlcdnH2VL2XiAq47zPrse1pKvEKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\world\\Downloads\\errorDiffusion\\errorDiffusion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\world\\.nuget\\packages\\bitmap.net\\1.0.1\\bitmap.net.1.0.1.nupkg.sha512",
+    "C:\\Users\\world\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\world\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\world\\.nuget\\packages\\runtime.osx.10.10-x64.corecompat.system.drawing\\6.0.5.128\\runtime.osx.10.10-x64.corecompat.system.drawing.6.0.5.128.nupkg.sha512",
+    "C:\\Users\\world\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ปี3เทอม1\\OS\\errorDiffusion\\errorDiff.csproj": {}
+  },
+  "projects": {
+    "D:\\ปี3เทอม1\\OS\\errorDiffusion\\errorDiff.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ปี3เทอม1\\OS\\errorDiffusion\\errorDiff.csproj",
+        "projectName": "errorDiff",
+        "projectPath": "D:\\ปี3เทอม1\\OS\\errorDiffusion\\errorDiff.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\ปี3เทอม1\\OS\\errorDiffusion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Bitmap.Net": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "runtime.osx.10.10-x64.CoreCompat.System.Drawing": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
